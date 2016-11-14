@@ -1,0 +1,1118 @@
+<film>
+	<movie><name>test add</name><types><type>Action</type></types><stars><name_actor>actor test add</name_actor></stars><director_actor>director test add</director_actor><date><day>31</day><month>Oct</month><year>2016</year></date><time>100</time><resolution>HD</resolution></movie><movie><name>test</name><types><type /></types><stars><name_actor /></stars><director_actor /><date><day /><month /><year /></date><time>100</time><resolution>HD</resolution></movie><movie><name>movie name test add</name><types><type>type test add</type></types><stars><name_actor>actor test add</name_actor></stars><director_actor>director test add</director_actor><date><day>31</day><month>Oct</month><year>2016</year></date><time>100</time><resolution>HD</resolution></movie><movie><name>test</name><types><type>Action</type></types><stars><name_actor>actor test</name_actor></stars><director_actor>director test</director_actor><date><day>31</day><month>Oct</month><year>2016</year></date><time>100</time><resolution>HD</resolution></movie><movie>
+		<name>Always</name>
+		<types>
+			<type>Drama</type>
+			<type>Romance</type>
+		</types>
+		<stars> 
+			<name_actor>So Ji-seob</name_actor>
+			<name_actor>Han Hyo-joo</name_actor>
+		</stars>
+		<director>Song Il-Gon</director>
+		<date>
+			<day>2</day>
+			<month>Feb</month>
+			<year>2012</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Letters To Juliet</name>
+		<types>
+			<type>Comedy</type>
+			<type>Drama</type>
+			<type>Romance</type>
+		</types>
+		<stars> 
+			<name_actor>Christopher Egan</name_actor>
+			<name_actor>Amanda Seyfried</name_actor>
+		</stars>
+		<director>Gary Winick</director>
+		<date>
+			<day>4</day>
+			<month>May</month>
+			<year>2010</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>In Time</name>
+		<types>
+			<type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Justin Timberlake</name_actor>
+			<name_actor>Amanda Seyfried</name_actor>
+		</stars>
+		<director>Andrew Niccol</director>
+		<date>
+			<day>27</day>
+			<month>Oct</month>
+			<year>2011</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>The Last Airbender</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+		</types>
+		<stars> 
+			<name_actor>Noah Ringer</name_actor>
+			<name_actor>Nicola Peltz</name_actor>
+		</stars>
+		<director>M. Night Shyamalan</director>
+		<date>
+			<day>29</day>
+			<month>Jul</month>
+			<year>2010</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>The Da Vinci Code</name>
+		<types>
+			<type>Mystery</type>
+		</types>
+		<stars> 
+			<name_actor>Tom Hanks</name_actor>
+			<name_actor>Audrey Tautou</name_actor>
+		</stars>
+		<director>Ron Howard</director>
+		<date>
+			<day>19</day>
+			<month>May</month>
+			<year>2006</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>The Sorcerer's Apprentice</name>
+		<types>
+			<type>Fantasy</type>
+			<type>Adventure</type>
+		</types>
+		<stars> 
+			<name_actor>Nicolas Cage</name_actor>
+			<name_actor>Jay Baruchel</name_actor>
+		</stars>
+		<director>Jon Turteltaub</director>
+		<date>
+			<day>14</day>
+			<month>Jul</month>
+			<year>2010</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Harry Potter</name>
+		<types>
+			<type>Fantasy</type>
+		</types>
+		<stars> 
+			<name_actor>Daniel Redcliffe</name_actor>
+			<name_actor>Emma Watson</name_actor>
+		</stars>
+		<director>Chris Columbus</director>
+		<date>
+			<day>16</day>
+			<month>Nov</month>
+			<year>2001</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Inception</name>
+		<types>
+			<type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Leonado Dicaprio</name_actor>
+			<name_actor>Joseph Gordon-Levitt</name_actor>
+		</stars>
+		<director>Christopher Nolan</director>
+		<date>
+			<day>16</day>
+			<month>Jul</month>
+			<year>2010</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Upside Down</name>
+		<types>
+			<type>Romantic</type>
+			<type>Fantasy</type>
+		</types>
+		<stars> 
+			<name_actor>Jim Sturgess</name_actor>
+			<name_actor>Kirsten Dunst</name_actor>
+		</stars>
+		<director>Juan Diego Solanas</director>
+		<date>
+			<day>31</day>
+			<month>Aug</month>
+			<year>2012</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Cloud Atlas</name>
+		<types>
+			<type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Tom Hanks</name_actor>
+			<name_actor>Ben Whishae</name_actor>
+			<name_actor>Halle Berry</name_actor>
+		</stars>
+		<director>Lana Wachowski</director>
+		<date>
+			<day>26</day>
+			<month>Oct</month>
+			<year>2012</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Predestination</name>
+		<types>
+			<type>Sci-Fi</type>
+			<type>Mystery</type>
+		</types>
+		<stars> 
+			<name_actor>Ethan Hawke</name_actor>
+			<name_actor>Sarah Snook</name_actor>
+			<name_actor>Noah Taylor</name_actor>
+		</stars>
+		<director>Michael Spierig</director>
+		<date>
+			<day>16</day>
+			<month>Oct</month>
+			<year>2014</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Captain America: Civil War</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+		</types>
+		<stars> 
+			<name_actor>Chris Evans</name_actor>
+			<name_actor>Robert Downey Jr.</name_actor>
+			<name_actor>Scarlett Johansson</name_actor>
+		</stars>
+		<director>Anthony Russo</director>
+		<date>
+			<day>27</day>
+			<month>Apr</month>
+			<year>2016</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>The Shawshank Redemption</name>
+		<types>
+			<type>Drama</type>
+		</types>
+		<stars> 
+			<name_actor>Tim Robbins</name_actor>
+			<name_actor>Morgan Freeman</name_actor>
+			<name_actor>Bob Gunton</name_actor>
+		</stars>
+		<director>Frank Darabont</director>
+		<date>
+			<day>14</day>
+			<month>Oct</month>
+			<year>1994</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Lucy</name>
+		<types>
+			<type>Action</type>
+			<type>Sci-Fi</type>
+			<type>Thriller</type>
+		</types>
+		<stars> 
+			<name_actor>Scarlett Johansson</name_actor>
+			<name_actor>Morgan Freeman</name_actor>
+			<name_actor>Min-sik Choi</name_actor>
+		</stars>
+		<director>Luc Besson</director>
+		<date>
+			<day>28</day>
+			<month>Aug</month>
+			<year>2014</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Forrest Gump</name>
+		<types>
+			<type>Comedy</type>
+			<type>Drama</type>
+		</types>
+		<stars> 
+			<name_actor>Tom Hanks</name_actor>
+			<name_actor>Robin Wright</name_actor>
+			<name_actor>Gary Sinise</name_actor>
+		</stars>
+		<director>Robert Zemeckis</director>
+		<date>
+			<day>6</day>
+			<month>Jul</month>
+			<year>1994</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>The Terminal</name>
+		<types>
+			<type>Comedy</type>
+			<type>Drama</type>
+			<type>Romance</type>
+		</types>
+		<stars> 
+			<name_actor>Tom Hanks</name_actor>
+			<name_actor>Catherine Zeta-Jones</name_actor>
+			<name_actor>Chi McBride</name_actor>
+		</stars>
+		<director>Steven Spielberg</director>
+		<date>
+			<day>2</day>
+			<month>Sep</month>
+			<year>2004</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>The Girl with the Dragon Tattoo</name>
+		<types>
+			<type>Drama</type>
+			<type>Mystery</type>
+		</types>
+		<stars> 
+			<name_actor>Daniel Craig</name_actor>
+			<name_actor>Rooney Mara</name_actor>
+			<name_actor>Christopher Plummer</name_actor>
+		</stars>
+		<director>David Fincher</director>
+		<date>
+			<day>21</day>
+			<month>Dec</month>
+			<year>2011</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Kingsman: The Secret Service</name>
+		<types>
+			<type>Action</type>
+			<type>Comedy</type>
+		</types>
+		<stars> 
+			<name_actor>Colin Firth</name_actor>
+			<name_actor>Taron Egerton</name_actor>
+			<name_actor>Samuel L. Jackson</name_actor>
+		</stars>
+		<director>Matthew Vaughn</director>
+		<date>
+			<day>12</day>
+			<month>Feb</month>
+			<year>2015</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Sky High</name>
+		<types>
+			<type>Action</type>
+			<type>Comedy</type>
+		</types>
+		<stars> 
+			<name_actor>Kurt Russell</name_actor>
+			<name_actor>Kelly Preston</name_actor>
+			<name_actor>Michael Angarano</name_actor>
+		</stars>
+		<director>Mike Mitchell</director>
+		<date>
+			<day>29</day>
+			<month>Jul</month>
+			<year>2005</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Zoolander</name>
+		<types>
+			<type>Comedy</type>
+		</types>
+		<stars> 
+			<name_actor>Ben Stiller</name_actor>
+			<name_actor>Owen Wilson</name_actor>
+			<name_actor>Christine Taylor</name_actor>
+		</stars>
+		<director>Ben Stiller</director>
+		<date>
+			<day>22</day>
+			<month>Feb</month>
+			<year>2002</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Suicide Squad</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+			<type>Comedy</type>
+		</types>
+		<stars> 
+			<name_actor>Will Smith</name_actor>
+			<name_actor>Jared Leto</name_actor>
+			<name_actor>Margot Robbie</name_actor>
+		</stars>
+		<director>David Ayer</director>
+		<date>
+			<day>5</day>
+			<month>Aug</month>
+			<year>2016</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Justice League</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+			<type>Fantasy</type>
+		</types>
+		<stars> 
+			<name_actor>Jared Leto</name_actor>
+			<name_actor>Gal Gadot</name_actor>
+			<name_actor>Jason Momoa</name_actor>
+		</stars>
+		<director>Zack Snyder</director>
+		<date>
+			<day>17</day>
+			<month>Nov</month>
+			<year>2017</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Resident Evil: The Final Chapter</name>
+		<types>
+			<type>Action</type>
+			<type>Horror</type>
+			<type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Milla Jovovich</name_actor>
+			<name_actor>Ruby Rose</name_actor>
+			<name_actor>Ali Larter</name_actor>
+		</stars>
+		<director>Paul W.S. Anderson</director>
+		<date>
+			<day>27</day>
+			<month>Jan</month>
+			<year>2017</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Rogue One: A Star Wars Story</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+			<type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Felicity Jones</name_actor>
+			<name_actor>Riz Ahmed</name_actor>
+			<name_actor>Ben Mendelsohn</name_actor>
+		</stars>
+		<director>Gareth Edwards</director>
+		<date>16-Dec-16
+			<day>16</day>
+			<month>Dec</month>
+			<year>2016</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Star Trek Beyond</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+			<type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Chris Pine</name_actor>
+			<name_actor>Zachary Quinto</name_actor>
+			<name_actor>Karl Urban</name_actor>
+		</stars>
+		<director>Justin Lin</director>
+		<date>22-Jul-16
+			<day>22</day>
+			<month>Jul</month>
+			<year>16</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Batman v Superman: Dawn of Justice</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+			<type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Ben Affleck</name_actor>
+			<name_actor>Henry Cavill</name_actor>
+			<name_actor>Amy Adams</name_actor>
+		</stars>
+		<director>Zack Snyder</director>
+		<date>
+			<day>25</day>
+			<month>Mar</month>
+			<year>2016</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Ghostbusters</name>
+		<types>
+			<type>Action</type>
+			<type>Comedy</type>
+			<type>Fantasy</type>
+		</types>
+		<stars>
+			<name_actor>Melissa McCarthy</name_actor>
+			<name_actor>Kristen Wiig</name_actor>
+			<name_actor>Kate McKinnon</name_actor>
+		</stars>
+		<director>Paul Feig</director>
+		<date>
+			<day>15</day>
+			<month>Jul</month>
+			<year>2016</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>The Secret Life of Pets</name>
+		<types>
+			<type>Animation</type>
+			<type>Comedy</type>
+		</types>
+		<stars> 
+			<name_actor>Louis C.K</name_actor>
+			<name_actor>Eric Stonestreet</name_actor>
+			<name_actor>Kevin Hart</name_actor>
+		</stars>
+		<director>Yarrow Cheney</director>
+		<date>
+			<day>8</day>
+			<month>Jul</month>
+			<year>2016</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Fast 8</name>
+		<types>
+			<type>Action</type>
+			<type>Thriller</type>
+		</types>
+		<stars>
+			<name_actor>Scott Eastwood</name_actor>
+			<name_actor>Charlize Theron</name_actor>
+			<name_actor>Jason Statham</name_actor>
+		</stars>
+		<director>F. Gary Gray</director>
+		<date>
+			<day>14</day>
+			<month>Apr</month>
+			<year>2017</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Lights Out</name>
+		<types>
+			<type>Horror</type>
+		</types>
+		<stars>
+			<name_actor>Teresa Palmer</name_actor>
+			<name_actor>Gabriel Bateman</name_actor>
+			<name_actor>Maria Bello</name_actor>
+		</stars>
+		<director>David F. Sandberg</director>
+		<date>
+			<day>22</day>
+			<month>Jul</month>
+			<year>2016</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>The Avenger</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+			<type>Sci-Fi</type>
+		</types>
+		<stars>
+			<name_actor>Robert Downey Jr.</name_actor>
+			<name_actor>Chris Evans</name_actor>
+			<name_actor>Scarlett Johansson</name_actor>
+		</stars>
+		<director>Joss Whedon</director>
+		<date>
+			<day>4</day>
+			<month>May</month>
+			<year>2012</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>The Avenger 2 : Age of Altron</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+			<type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Robert Downey Jr.</name_actor>
+			<name_actor>Chris Evans</name_actor>
+			<name_actor>Mark Ruffalo</name_actor>
+		</stars>
+		<director>Joss Whedon</director>
+		<date>1-May-2015
+			<day>1</day>
+			<month>May</month>
+			<year>2015</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Ironman</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+			<type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Robert Downey Jr.</name_actor>
+			<name_actor>Gwyneth Paltrow</name_actor>
+			<name_actor>Terrence Howard</name_actor>
+		</stars>
+		<director>Jon Favreau</director>
+		<date>
+			<day>2</day>
+			<month>May</month>
+			<year>2008</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Ironman 2</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+			<type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Robert Downey Jr.</name_actor>
+			<name_actor>Mickey Rourke</name_actor>
+			<name_actor>Gwyneth Paltrow</name_actor>
+		</stars>
+		<director>Jon Favreau</director>
+		<date>
+			<day>7</day>
+			<month>May</month>
+			<year>2010</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Ironman 3</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+			<type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Robert Downey Jr.</name_actor>
+			<name_actor>Gwyneth Paltrow</name_actor>
+			<name_actor>Guy Pearce</name_actor>
+		</stars>
+		<director>Shane Black</director>
+		<date>
+			<day>10</day>
+			<month>May</month>
+			<year>2013</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>The Incredible Hulk</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+			<type>Sci-Fi</type>
+		</types>
+		<stars>
+			<name_actor>Edward Norton</name_actor>
+			<name_actor>Liv Tyler</name_actor>
+			<name_actor>Tim Roth</name_actor>
+		</stars>
+		<director>Louis Leterrier</director>
+		<date>
+			<day>13</day>
+			<month>Jun</month>
+			<year>2008</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Thor</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+			<type>Fantasy</type>
+		</types>
+		<stars>
+			<name_actor>Chris Hemsworth</name_actor>
+			<name_actor>Anthony Hopkins</name_actor>
+			<name_actor>Natalie Portman</name_actor>
+		</stars>
+		<director>Kenneth Branagh</director>
+		<date>
+			<day>6</day>
+			<month>May</month>
+			<year>2012</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Thor The Dark World</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+			<type>Fantasy</type>
+		</types>
+		<stars>
+			<name_actor>Chris Hemsworth</name_actor>
+			<name_actor>Natalie Portman</name_actor>
+			<name_actor>Tom Hiddleston</name_actor>
+		</stars>
+		<director>Alan Taylor</director>
+		<date>8-Nov-2013
+			<day>8</day>
+			<month>Nov</month>
+			<year>2013</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Ant Man</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+			<type>Comedy</type>
+		</types>
+		<stars>
+			<name_actor>Paul Rudd</name_actor>
+			<name_actor>Michael Douglas</name_actor>
+			<name_actor>Corey Stoll</name_actor>
+		</stars>
+		<director>Peyton Reed</director>
+		<date>
+			<day>17</day>
+			<month>Jul</month>
+			<year>2015</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+	<movie>
+		<name>Captain America: The Winter Soldier</name>
+		<types>
+			<type>Action</type>
+			<type>Adventure</type>
+			<type>Sci-Fi</type>
+		</types>
+		<stars>
+			<name_actor>Chris Evans</name_actor>
+			<name_actor>Samuel L. Jackson</name_actor>
+			<name_actor>Scarlett Johansson</name_actor>
+		</stars>
+		<director>Anthony Russo</director>
+		<date>
+			<day>4</day>
+			<month>Apr</month>
+			<year>2014</year>
+		</date>
+	<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>Concussion</name>
+		<types>
+			<type>Biography</type>
+            <type>Drama</type>
+            <type>Sport</type>
+		</types>
+		<stars> 
+			<name_actor>Will Smith</name_actor>
+		</stars>
+		<director>Peter Landesman</director>
+		<date>
+			<day>25</day>
+			<month>Dec</month>
+			<year>2015</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>In the Heart of the Sea</name>
+		<types>
+			<type>Action</type>
+            <type>Adventure</type>
+            <type>Biography</type>
+		</types>
+		<stars> 
+			<name_actor>Chris Hemsworth</name_actor>
+		</stars>
+		<director>Ron Howard</director>
+		<date>
+			<day>3</day>
+			<month>Dec</month>
+			<year>2015</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>Joy</name>
+		<types>
+			<type>Biography</type>
+            <type>Comedy</type>
+            <type>Drama</type>
+		</types>
+		<stars> 
+			<name_actor>Jennifer Lawrence</name_actor>
+		</stars>
+		<director>David O. Russell</director>
+		<date>
+			<day>18</day>
+			<month>Feb</month>
+			<year>2016</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>The Danish Girl</name>
+		<types>
+			<type>Biography</type>
+            <type>Drama</type>
+            <type>Romance</type>
+		</types>
+		<stars> 
+			<name_actor>Eddie Redmayne</name_actor>
+		</stars>
+		<director>Tom Hooper</director>
+		<date>
+			<day>4</day>
+			<month>Feb</month>
+			<year>2016</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>Room</name>
+		<types>
+			<type>Drama </type>
+		</types>
+		<stars> 
+			<name_actor>Brie Larson</name_actor>
+		</stars>
+		<director>Lenny Abrahamson</director>
+		<date>
+			<day>15</day>
+			<month>Jun</month>
+			<year>2016</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>Spotlight</name>
+		<types>
+			<type>Biography</type>
+            <type>Crime</type>
+            <type>Drama</type>
+		</types>
+		<stars> 
+			<name_actor>Mark Ruffalo</name_actor>
+		</stars>
+		<director>Tom McCarthy</director>
+		<date>
+			<day>17</day>
+			<month>Jun</month>
+			<year>2016</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>The Revenant</name>
+		<types>
+			<type>Adventure</type>
+            <type>Drama</type>
+            <type>Thriller</type>
+		</types>
+		<stars> 
+			<name_actor>Leonardo DiCaprio</name_actor>
+		</stars>
+		<director>Alejandro G. I&#241;&#225;rritu</director>
+		<date>
+			<day>4</day>
+			<month>Feb</month>
+			<year>2016</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>The Imitation Game</name>
+		<types>
+			<type>Biography</type>
+            <type>Drama</type>
+            <type>Thriller</type>
+		</types>
+		<stars> 
+			<name_actor>Benedict Cumberbatch</name_actor>
+		</stars>
+		<director>Morten Tyldum</director>
+		<date>
+			<day>29</day>
+			<month>Jun</month>
+			<year>2015</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>Interstellar</name>
+		<types>
+			<type>Adventure</type>
+            <type>Drama</type>
+            <type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Matthew McConaughey</name_actor>
+		</stars>
+		<director>Christopher Nolan</director>
+		<date>
+			<day>6</day>
+			<month>Nov</month>
+			<year>2014</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>The Martian</name>
+		<types>
+			<type>Adventure</type>
+            <type>Drama</type>
+            <type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Matt Damon</name_actor>
+		</stars>
+		<director>Ridley Scott</director>
+		<date>
+			<day>1</day>
+			<month>Oct</month>
+			<year>2015</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>Back to the Future</name>
+		<types>
+			<type>Adventure</type>
+            <type>Comedy</type>
+            <type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Michael J. Fox</name_actor>
+		</stars>
+		<director>Robert Zemeckis</director>
+		<date>
+			<day>3</day>
+			<month>Jul</month>
+			<year>1985</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>Back to the Future II</name>
+		<types>
+			<type>Adventure</type>
+            <type>Comedy</type>
+            <type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Michael J. Fox</name_actor>
+		</stars>
+		<director>Robert Zemeckis</director>
+		<date>
+			<day>22</day>
+			<month>Nov</month>
+			<year>1989</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>Back to the Future III</name>
+		<types>
+			<type>Adventure</type>
+            <type>Comedy</type>
+            <type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Michael J. Fox</name_actor>
+		</stars>
+		<director>Robert Zemeckis</director>
+		<date>
+			<day>25</day>
+			<month>May</month>
+			<year>1990</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>Batman Begins</name>
+		<types>
+			<type>Action</type>
+            <type>Adventure</type>
+		</types>
+		<stars> 
+			<name_actor>Christian Bale</name_actor>
+		</stars>
+		<director>Christopher Nolan</director>
+		<date>
+			<day>15</day>
+			<month>Jun</month>
+			<year>2005</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>The Dark Knight</name>
+		<types>
+			<type>Action</type>
+            <type>Crime</type>
+            <type>Drama</type>
+		</types>
+		<stars> 
+			<name_actor>Christian Bale</name_actor>
+		</stars>
+		<director>Christopher Nolan</director>
+		<date>
+			<day>18</day>
+			<month>Jul</month>
+			<year>2008</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>The Dark Knight Rises</name>
+		<types>
+			<type>Thriller</type>
+            <type>Action</type>
+		</types>
+		<stars> 
+			<name_actor>Christian Bale</name_actor>
+		</stars>
+		<director>Christopher Nolan</director>
+		<date>
+			<day>20</day>
+			<month>Jul</month>
+			<year>2012</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>The Matrix I</name>
+		<types>
+			<type>Action</type>
+            <type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Keanu Reeves</name_actor>
+		</stars>
+		<director>Lana Wachowski</director>
+		<date>
+			<day>31</day>
+			<month>Mar</month>
+			<year>1999</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>The Matrix II</name>
+		<types>
+			<type>Action</type>
+            <type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Keanu Reeves</name_actor>
+		</stars>
+		<director>Lana Wachowski</director>
+		<date>
+			<day>15</day>
+			<month>May</month>
+			<year>2003</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>The Matrix III</name>
+		<types>
+			<type>Action</type>
+            <type>Sci-Fi</type>
+		</types>
+		<stars> 
+			<name_actor>Keanu Reeves</name_actor>
+		</stars>
+		<director>Lana Wachowski</director>
+		<date>
+			<day>5</day>
+			<month>Nov</month>
+			<year>2003</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+<movie>
+	<name>The Lobster</name>
+		<types>
+			<type>Comedy</type>
+            <type>Drama</type>
+			<type>Romance</type>
+		</types>
+		<stars> 
+			<name_actor>Colin Farrell</name_actor>
+		</stars>
+		<director>Yorgos Lanthimos</director>
+		<date>
+			<day>15</day>
+			<month>Nov</month>
+			<year>2015</year>
+		</date>
+<time>100</time><resolution>HD</resolution></movie>
+
+</film>
